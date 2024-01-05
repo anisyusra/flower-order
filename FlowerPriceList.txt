@@ -1,0 +1,6 @@
+Sunflower;3;30;Wish Card
+Rose;3;15;Wish Card
+Daisy;3;14;Wish Card
+Lily;3;20;Wish Card
+Tulips;5;18;Wish Card
+Baby Breath;25;25;Wish Card
